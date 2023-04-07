@@ -14,7 +14,7 @@
 <br>
 
 ## 💼 Habilidades
-<img src="https://img.shields.io/badge/Java-Code-informational?style=flat&logo=Apache&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/SQL-Code-informational?style=flat&logo=PostgreSQL&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/SQL-Admin-informational?style=flat&logo=PostgreSQL&logoColor=white&color=80ff00"> <img src="https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=HTML5&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=CSS3&logoColor=white&color=80ff00">
+<img src="https://img.shields.io/badge/LookerStudio-BI-informational?style=flat&logo=Looker&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/Java-Code-informational?style=flat&logo=Apache&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/SQL-Code-informational?style=flat&logo=PostgreSQL&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/SQL-Admin-informational?style=flat&logo=PostgreSQL&logoColor=white&color=80ff00"> <img src="https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=HTML5&logoColor=white&color=80ff00">  <img src="https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=CSS3&logoColor=white&color=80ff00">
 
 <br>
 
