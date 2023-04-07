@@ -15,6 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          ## Criando svg básico
           filename: metrics.plugin.steam.svg
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
@@ -22,3 +23,12 @@ jobs:
           plugin_steam_user: "76561198255259900"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
+          ## Criando svg completo
+          name: Profile and detailed game history
+          filename2: metrics.plugin.steam.full.svg
+          token2: NOT_NEEDED
+          base2: ""
+          plugin_steam_token2: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam2: yes
+          plugin_steam_user2: "76561198255259900"
+
