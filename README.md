@@ -1,6 +1,8 @@
-## 👋 Olá, eu sou Willian Mayrink!
+## 👋 Olá, seja bem-vindo!
 
-<img align="center" alt="Will-HTML" src="https://github.com/willmayrink/willmayrink/blob/f08038034d3fe96d068e41adb0c39c2b48bbeeca/24_-_Power_BI-2-1536x404.png">
+<br>
+
+<img align="center" alt="Will-HTML" style="border-radius:5%" src="https://github.com/willmayrink/willmayrink/blob/8eb261bff280fa7cecd1ec15e9bf008dc23fe041/image.png">
 
 <br> 
     
