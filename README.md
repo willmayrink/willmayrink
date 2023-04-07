@@ -7,7 +7,7 @@
     
 ## 📈 Estatísticas Github
    
-<div align="left">
+<div align="left" style="padding: 10px">
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmayrink&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="360"> 
