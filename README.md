@@ -30,5 +30,5 @@
 <br>
 
 ## 🎮 Games
-#### Informações sobre minha conta:
+<div style="align:left"><a href="https://steamcommunity.com/id/sugardaddy0912/"><img src="https://img.shields.io/badge/Steam-Profile-informational?style=flat&logo=Steam&logoColor=white&color=428bca"></a></div>
 <img align="left" src="/metrics.plugin.steam.completo.svg" alt="Metrics" width="450">
