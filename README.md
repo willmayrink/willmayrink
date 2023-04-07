@@ -1,7 +1,6 @@
 ## 👋 Olá, seja bem-vindo!
 
 <br>
-
 <img align="center" alt="Will-HTML" style="border-radius:5%" src="https://github.com/willmayrink/willmayrink/blob/8eb261bff280fa7cecd1ec15e9bf008dc23fe041/image.png">
 
 <br> 
@@ -9,7 +8,10 @@
   ## 📈 Estatísticas Github
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmayrink&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willmayrink&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <br>
 
