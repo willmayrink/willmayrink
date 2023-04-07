@@ -30,4 +30,4 @@
 
 ## 🎮 Steam
 
-<img align="left" src="/metrics.plugin.steam.svg" alt="Metrics" width="450">
+<img align="left" src="/metrics.plugin.steam.completo.svg" alt="Metrics" width="450">
