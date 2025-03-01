@@ -7,10 +7,9 @@
     
 ## 📈 Estatísticas Github
    
-<div align="left" style="padding: 10px">
+<div align="left" style="padding-bottom:10px;">
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willmayrink&hide_rank=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)        
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="360"> 
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willmayrink&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
   
@@ -37,8 +36,6 @@
     <img src="https://img.shields.io/badge/Instagram-Perfil-informational?style=flat&logo=Instagram&logoColor=white&color=428bca"><a/>
 <a href="https://discordapp.com/user/iNK#0671">
     <img src="https://img.shields.io/badge/Discord-Perfil-informational?style=flat&logo=Discord&logoColor=white&color=428bca"><a/>
-<a href="https://www.reddit.com/user/iNK6152"> 
-    <img src="https://img.shields.io/badge/Reddit-Usuário-informational?style=flat&logo=Reddit&logoColor=white&color=428bca"></a>
 
 <br>
 
