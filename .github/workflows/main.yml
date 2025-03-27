@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: willmayrink
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
@@ -37,7 +37,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_projects: yes
           plugin_projects_limit: 2
-          filename: metrics.plugin.code.svg
+          filename: github-metrics.svg
           plugin_languages: true
           plugin_languages_ignored: ruby
           
