@@ -38,7 +38,7 @@ jobs:
           plugin_achievements_threshold: C
           filename: github-metrics.svg
           plugin_languages: true
-          plugin_languages_ignored: ruby
+          plugin_languages_ignored: ruby, coffeescript
           plugin_leetcode: yes
           plugin_leetcode_user: willmayrink
           plugin_leetcode_sections: solved, skills
