@@ -30,7 +30,7 @@ jobs:
           user: willmayrink
           template: classic
           base_hireable: true
-          base: header, community, repositories, metadata
+          base: repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: detailed
