@@ -37,3 +37,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_projects: yes
           plugin_projects_limit: 2
+          filename: metrics.plugin.code.svg
+          plugin_code: yes
+          plugin_code_languages: java
+          plugin_code_load: 400
