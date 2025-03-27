@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: willmayrink
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
@@ -40,4 +40,8 @@ jobs:
           filename: github-metrics.svg
           plugin_languages: true
           plugin_languages_ignored: ruby
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: half-year
+          base_hireable: true
+          
           
