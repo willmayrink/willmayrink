@@ -43,6 +43,8 @@ jobs:
           plugin_leetcode: yes
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_habits: true
+          plugin_habits_facts: true
           
           
           
