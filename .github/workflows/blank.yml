@@ -29,6 +29,7 @@ jobs:
           # Options
           user: willmayrink
           filename: metrics-repo.svg
+          base: ""
           plugin_repositories: true
           plugin_repositories_featured: Zomboid
           
