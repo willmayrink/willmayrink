@@ -12,9 +12,16 @@
 <body>
 <div style="display:flex;justify-content:center;padding-bottom:10px;"><img src="thumb.gif" style="border-radius:15px;"></div>
 
-
+<h3><strong>📟 Languages</strong></h3>
+<hr>
+<div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-habits.svg"></div>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="github-metrics.svg"></div>
+<h3><strong>🗓️ Habits of development (💤)</strong></h3>
+<hr>
+<div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-habits.svg"></div>
 <h3><strong>☣️ Project Zomboid Mod Pages</strong></h3>
+<hr>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
+
 </body>
 </html>
