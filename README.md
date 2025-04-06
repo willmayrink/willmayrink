@@ -10,14 +10,11 @@
         rel="stylesheet">
 </head>
 <body>
-<div style="text-align:center; padding-bottom:10px;"><h2 style="color:white;font-family:'Roboto',sans-serif;font-weight:50;">Welcome.<span style="font-size:32px;padding-left:5px;color:#fff;opacity:1">👋</span></h2></div>
-<div style="display:flex;justify-content:center;padding-bottom:10px;"><img src="thumb.jpg" style="border-radius:15px;"></div>
-<h2><strong> | </strong>Metrics 📈</h2><br>
-
+<div style="display:flex;justify-content:center;padding-bottom:10px;"><img src="thumb.gif" style="border-radius:15px;"></div>
 
 
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="github-metrics.svg"></div>
-<h2>☣️ Project Zomboid Mod Pages</h2>
+<h3>☣️ Project Zomboid Mod Pages</h3>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
 </body>
 </html>
