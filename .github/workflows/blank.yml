@@ -30,8 +30,7 @@ jobs:
           user: willmayrink
           template: classic
           base_hireable: true
-          filename: metrics-repos.svg
-          base: repositories, metadata
+          filename: metrics-repo.svg
           plugin_repositories: true
           plugin_repositories_featured: Zomboid
           
