@@ -17,5 +17,7 @@
 
 
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="github-metrics.svg"></div>
+***
+<div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-reps.svg"></div>
 </body>
 </html>
