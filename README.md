@@ -17,7 +17,7 @@
 
 
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="github-metrics.svg"></div>
-***
+<h2>🧟 Zomboid Mod Pages</h2>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
 </body>
 </html>
