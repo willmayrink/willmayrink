@@ -18,7 +18,7 @@
 <h3><strong>🗓️ Habits of development (💤)</strong></h3>
 <hr>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-habits.svg"></div>
-<h3><strong>☣️ Project Zomboid Mod Pages</strong></h3>
+<h3><strong>🖥️ RJ de Oliveira | EnvioNFe (📧)</strong></h3>
 <hr>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
 
