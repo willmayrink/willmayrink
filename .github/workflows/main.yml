@@ -40,7 +40,6 @@ jobs:
           filename: github-metrics.svg
           plugin_languages: true
           plugin_languages_ignored: ruby, coffeescript
-          plugin_leetcode: yes
           plugin_topics: yes
           plugin_topics_mode: icons
          
