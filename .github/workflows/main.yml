@@ -30,10 +30,7 @@ jobs:
           user: willmayrink
           template: classic
           base_hireable: true
-          base: ""
-          config_timezone: America/Sao_Paulo
-          plugin_leetcode_user: willmayrink
-          plugin_leetcode_sections: solved, skills
+          base: header, metadata
          # plugin_achievements: yes
          # plugin_achievements_display: compact
          # plugin_achievements_secrets: yes
