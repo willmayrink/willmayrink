@@ -10,7 +10,7 @@
         rel="stylesheet">
 </head>
 <body>
-<div style="display:flex;justify-content:center;padding-bottom:10px;"><img src="thumb.gif" style="border-radius:15px;"></div>
+
 
 <h3><strong>🖥️ Development</strong></h3>
 <hr>
