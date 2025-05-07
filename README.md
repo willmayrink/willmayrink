@@ -22,6 +22,11 @@
 <h3><strong>🏆 Featured Repositories </strong></h3>
 <hr>
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
+<hr>
+<h3>🪪 Contact</h3>
+<span><small>You can find more detailed info about me <a href="https://willmayrink.github.io">here</a>.</span></small>
+    
+`Feel free to reach me out.👋🏻`
 
 </body>
 </html>
