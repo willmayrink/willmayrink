@@ -32,7 +32,7 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "76561198255259900"
+          plugin_steam_user: "76561198154531355"
           plugin_steam_sections: player, recently-played
           plugin_steam_achievements_limit: 0
           
