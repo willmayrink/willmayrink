@@ -24,7 +24,7 @@
 <div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-repo.svg"></div>
 <h3>🎮 Gaming</h3>
 <hr>
-<div style="display:flex;justify-content:center;padding-top:15px;"><img src="metrics-steam-profile.svg"></div>
+<div style="display:flex;justify-content:center;padding-top:15px;"><a href="https://steamcommunity.com/id/alasy0305/" target="_blank"><img src="metrics-steam-profile.svg"></a></div>
 <hr>
 <h3>🪪 Contact</h3>
 <span><small>You can find info about me <a href="https://willmayrink.github.io">here</a>.</span></small>
